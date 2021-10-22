@@ -1,0 +1,116 @@
+.btn-primary{
+    padding: 2% !important;
+    background: #d9a138 !important;
+    border: none !important;
+    border-radius: 15px !important;
+    margin-bottom: 4rem;
+}
+.btn-primary:hover{
+    background: #f3bb52 !important;
+
+}
+.float{
+    position:fixed;
+    width:60px;
+    height:60px;
+    bottom:50px;
+    right:40px;
+    background-color:#25d366;
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+    font-size:30px;
+    box-shadow: 2px 2px 3px #999;
+    z-index:100;
+}
+
+.my-float{
+    margin-top:16px;
+    color:#ffffff;
+}
+.my-float:hover{
+    margin-top:16px;
+    color:#ffffff;
+}
+.float:hover .my-btn{
+    display: block !important;
+    position: absolute !important;
+    top: 0%;
+
+}
+.my-btn{
+    display: none !important;
+    margin-bottom: 250%;
+    right: 120% !important;
+    width: max-content !important;
+
+}
+.contactos{
+    margin-top: 5%;
+}
+.img-thumbnail{
+    border: none!important;
+}
+.img-fluid{
+
+    width: 100% !important;
+    height: 300px !important;
+}
+footer {
+    margin-top: 50px !important;
+}
+.titulo {
+    text-align: center;
+    margin-top: -10rem;
+    color: ivory;
+}
+
+.section-title {
+    margin-top: 2rem;
+    padding-bottom: 4rem;
+}
+
+.section-title p {
+    margin: 0;
+    margin: 0;
+    font-size: 36px;
+    font-weight: 700;
+    font-family: "Playfair Display", serif;
+    color: #cda45e;
+    text-align: center;
+}
+
+.sticky-top {
+    top: -0.5rem !important;
+
+}
+.info .horarios,.info .address,.info .email,.info .phone {
+    margin-top: 40px;
+    margin-left: 6rem;
+}
+
+.info i {
+    font-size: 20px;
+    float: left;
+    width: 44px;
+    height: 44px;
+    background:#d9a138;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    transition: all 0.3s ease-in-out;
+}
+.info h4 {
+    padding: 0 0 0 60px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+.info p {
+    font-family: "Poppins", sans-serif;
+    padding: 0 0 0 60px;
+    margin-bottom: 0;
+    font-size: 15px;
+    color: #272726;
+}

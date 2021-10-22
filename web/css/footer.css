@@ -1,0 +1,201 @@
+@charset "UTF-8";
+.btn-subir {
+  position: absolute;
+  right: 50px;
+  top: 1000px;
+}
+.btn-subir .bbb {
+  height: 55px;
+  width: 55px;
+  border-radius: 30px;
+  border: none;
+  font-size: 30px;
+  background-color: #d9a138;
+  color: #ebebeb;
+}
+.btn-subir .bbb:hover {
+  background-color: #254382;
+  animation: icono 0.5s ease;
+}
+.btn-subir .ir-arriba {
+  display: none;
+  padding: 20px;
+  background: #024959;
+  font-size: 20px;
+  color: #fff;
+  cursor: pointer;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+:root {
+  --color-esqueleto: #EFF3F5;
+}
+
+.cover {
+  width: 100%;
+  height: 500px;
+  background: #EFF3F5;
+  margin-top: 20px;
+}
+
+.container__article {
+  max-width: 1000px;
+  padding: 0px 20px;
+  margin: auto;
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.container__article .box__article {
+  width: 200px;
+  height: 250px;
+  background: #EFF3F5;
+  margin: 20px;
+}
+
+/*Aquí debajo va el FOOTER*/
+footer {
+  margin-top: 100px;
+  width: 100%;
+  padding: 50px 0px;
+  background-image: url(/Img/Footer/background-footer.svg);
+  background-size: cover;
+}
+footer a {
+  text-decoration: none;
+}
+footer .iconos {
+  color: #d9a138;
+}
+footer .face {
+  color: #254382;
+}
+footer .faceboo:hover {
+  color: #254382 !important;
+  font-weight: 900;
+  text-decoration: overline !important;
+}
+footer .faceboo {
+  font-weight: 900 !important;
+  color: #254382 !important;
+}
+footer .twitter {
+  color: #1d9bf0 !important;
+}
+footer .twitterr:hover {
+  color: #1d9bf0 !important;
+  text-decoration: overline !important;
+}
+footer .twitterr {
+  color: #1d9bf0 !important;
+  font-weight: 900 !important;
+}
+footer .linkedin {
+  color: #0b66c2;
+}
+footer .linkedinn:hover {
+  color: #0b66c2 !important;
+  font-weight: 900 !important;
+  text-decoration: overline !important;
+}
+footer .linkedinn {
+  color: #0b66c2 !important;
+  font-weight: 900 !important;
+}
+footer .whatsapp {
+  color: #49c456;
+}
+footer .whatsappp:hover {
+  color: #49c456 !important;
+  font-weight: 900 !important;
+  text-decoration: overline !important;
+}
+footer .whatsappp {
+  color: #49c456 !important;
+  font-weight: 900 !important;
+}
+footer .instagran {
+  font-weight: 900 !important;
+  color: #b43aa0 !important;
+}
+footer .instagran:hover {
+  font-weight: 900 !important;
+  text-decoration: overline !important;
+}
+
+.container__footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.box__footer {
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+}
+
+.box__footer .logo img {
+  width: 180px;
+}
+
+.box__footer .terms {
+  max-width: 350px;
+  margin-top: 20px;
+  font-weight: 500;
+  color: #7a7a7a;
+  font-size: 18px;
+  text-align: justify;
+}
+
+.box__footer h4 {
+  margin-bottom: 30px;
+  color: #343434;
+  font-weight: 700;
+}
+
+.box__footer a {
+  margin-top: 10px;
+  color: #7a7a7a;
+  font-weight: 600;
+}
+
+.box__footer a:hover {
+  opacity: 0.8;
+}
+
+.box__footer a .fab {
+  font-size: 20px;
+}
+
+.box__copyright {
+  max-width: 1200px;
+  margin: auto;
+  text-align: center;
+  padding: 0px 40px;
+}
+
+.box__copyright p {
+  margin-top: 20px;
+  color: #7a7a7a;
+}
+
+.box__copyright hr {
+  border: none;
+  height: 1px;
+  background-color: #7a7a7a;
+}
+
+footer .box__footer a:hover {
+  text-decoration: line-through;
+}
+
+/*# sourceMappingURL=footer.css.map */
+
