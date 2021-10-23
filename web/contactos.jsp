@@ -49,7 +49,10 @@
             <p>Contactanos</p>
         </div>
         <div class="container container-services">
-
+            
+            
+            <div class="contejemplo">
+                
             <div class="row">
 
                 <div class="col-md-8 service-box">
@@ -79,6 +82,7 @@
                         </div>
                     </form>
                 </div>
+               
 
                 <div class="col-md-4 info">
 
@@ -125,6 +129,7 @@
                 </a>
 
             </div>
+             </div>
         </div>
         <!-- ******************** FIN CODIGO ******************** -->
        

@@ -19,7 +19,8 @@
         <input type="checkbox" id="nav-toggle">
         <div class="sidebar">
             <div class="sidebar-brand">
-                <h2><span class="las la-shopping-bag"</span> <span> Shopping</span></h2>
+                 
+                 <a style="color: #FFF" href="index.jsp"><h2><span class="las la-shopping-bag"</span> <span> Shopping</span></h2></a>
             </div>
             <div class="sidebar-menu">
                 <ul>

@@ -24,7 +24,7 @@
 
                     <div class="col-sm-12 col-lg-6 ">
                         <nav class="nav justify-content-center ">
-                            <a class="nav-link active " href="login.jsp"><i class="bi bi-person "></i> Mi cuenta</a>
+                            <a class="nav-link active " href="login.jsp" target="_blak"><i class="bi bi-person "></i> Mi cuenta</a>
                             <a class="nav-link " href="# "><i class="bi bi-percent "></i> Descuentos</a>
                             <a class="nav-link mini " href="# "><i class="bi bi-credit-card "></i> Tarjeta de crédito</a>
                         </nav>
@@ -39,7 +39,7 @@
 
                     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3 text-sm-center text-xs-center ">
                         <div class="imm ">
-                            <a href="Index.jsp"><img src="Img/icono/icon.png " alt=" "></a>
+                            <a href="index.jsp"><img src="Img/icono/icon.png " alt=" "></a>
                         </div>
                     </div>
 

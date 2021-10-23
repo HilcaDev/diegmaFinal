@@ -62,7 +62,7 @@ footer {
   margin-top: 100px;
   width: 100%;
   padding: 50px 0px;
-  background-image: url(/Img/Footer/background-footer.svg);
+  background-image: url(../Img/Footer/background-footer.svg);
   background-size: cover;
 }
 footer a {

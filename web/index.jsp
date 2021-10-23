@@ -1,3 +1,4 @@
+<%@page import="javafx.scene.control.Alert"%>
 <%@page import="java.sql.*"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -1078,6 +1079,9 @@ if (email != null) {
         ps = con.prepareStatement("insert into suscripciones(correo_usuario) values('"+email+"')");
         ps.executeUpdate();
         response.sendRedirect("listarS.jsp");
+        
+        
+        
     }
 
 %>
