@@ -65,9 +65,9 @@
                     <input type="search" placeholder="Busca aqui"/>
                 </div>
                 <div class="user-wrapper">
-                    <img src="Img/nosotros/persona2.jpg" width="30px" height="30px" alt="">
+                    <img src="Img/nosotros/02 (2).jpeg" width="30px" height="30px" alt="">
                     <div>
-                        <h4>Lucia Hernandez</h4>
+                        <h4>Diego Trujillo</h4>
                         <small>Super Admin</small>
                     </div>
                 </div>

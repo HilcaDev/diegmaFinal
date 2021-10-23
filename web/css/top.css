@@ -43,11 +43,11 @@
 }
 
 .ftr-top-left i.fa.fa-user:hover {
-    background-color: rgba(0, 0, 0, alpha)
+    background-color: rgba(0, 0, 0, alpha) !important;
 }
 
 .ftr-top-left i.fa.fa-thumbs-o-up {
-    color: #fb4602;
+    color: #fb4602 !important;
 }
 
 .ftr-top-right h4 {

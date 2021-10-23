@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="css/footer.css">
     <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" href="css/top.css">
-    <link rel="stylesheet" href="css/Topcard.css">
+   <!-- <link rel="stylesheet" href="css/Topcard.css">-->
     <link rel="stylesheet" href="css/suba.css">
     <!-- fontello -->
     <link rel="stylesheet" href="css/fontello.css">
