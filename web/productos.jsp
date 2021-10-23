@@ -1,8 +1,7 @@
-<%-- 
-    Document   : productos
-    Created on : Oct 12, 2021, 5:11:53 PM
-    Author     : alex
---%>
+<!--
+ Author: Diego Alosnso Trujillo
+Author URL: https://devtrujillo.herokuapp.com 
+-->
 <%@page import="Controllers.ControladorProducto"%>
 <%
     ControladorProducto cp = new ControladorProducto();

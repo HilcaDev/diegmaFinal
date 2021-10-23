@@ -1,3 +1,10 @@
+<!--
+ Author: Diego Alosnso Trujillo
+Author URL: https://devtrujillo.herokuapp.com 
+-->
+
+
+
 <%@page import="javafx.scene.control.Alert"%>
 <%@page import="java.sql.*"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
