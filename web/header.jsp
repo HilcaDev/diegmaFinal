@@ -150,9 +150,7 @@
                             <li class="nav-item">
                                 <a class="nav-link nav-colo eee " href="nosotros.jsp">Sobre Nosotros</a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link nav-colo eee" href="productos.jsp">Descuentos</a>
-                            </li>
+                         
                             <li class="nav-item">
                                 <a class="nav-link nav-colo eee" href="contactos.jsp">Contactenos</a>
                             </li>

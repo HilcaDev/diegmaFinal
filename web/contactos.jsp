@@ -123,7 +123,7 @@
 
             <div class="whatsapp">
                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-                <a href="https://api.whatsapp.com/send?phone=3015886619&text=OYE%21%20MI%20PERRO." class="float" target="_blank">
+                <a href="https://wa.me/message/GXA2NYSTI5PWD1" class="float" target="_blank">
                     <i class="fa fa-whatsapp my-float"></i>
                     <span class="btn btn-secondary my-btn" data-bs-toggle="tooltip" data-bs-placement="right" title="Tooltip on right">En Que Podemos Ayudarte?</span>
                 </a>

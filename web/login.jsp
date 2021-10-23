@@ -41,7 +41,7 @@
                             </div>
                             <div class="form-group">
 
-                                 <a href="#" class="pull-right need-help">Need help? </a><span class="clearfix"></span>
+                                <a href="ayuda.jsp" class="pull-right need-help">Necesitas Ayuda? </a><span class="clearfix"></span>
                             </div>
                         </form>
                     </div>
